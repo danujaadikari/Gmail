@@ -156,16 +156,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Inspired by Gmail's interface
-- Built with modern React best practices
-- UI components styled with Tailwind CSS
-
-## 📧 Contact
-
-For questions or feedback, please open an issue on GitHub.
-
 ---
 
-Made with ❤️ using React + TypeScript + Tailwind CSS
+### 👨‍💻 Developer Information
+
+**Danuja Adikari**  
+📧 Email     : [danujaadikari2001@gmail.com](mailto:danujaadikari2001@gmail.com)  
+💼 LinkedIn  : [linkedin.com/in/danuja-adikari](https://www.linkedin.com/in/danuja-adikari)
+
+---
